@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,emby.nexitally.com,Emby
 DOMAIN-SUFFIX,plusmedia.site,Emby
 DOMAIN-SUFFIX,mickeycloud.com,Emby
 DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN-SUFFIX,embyclub.com,Emby
 IP-CIDR, 38.94.109.52/24,Emby
 IP-CIDR, 38.94.111.238/24,Emby
 DOMAIN-SUFFIX, emby.otakudrive.life,Emby
